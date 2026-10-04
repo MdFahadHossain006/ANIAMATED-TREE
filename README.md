@@ -40,26 +40,25 @@ The project combines:
 The tree grows smoothly from the bottom of the screen and creates a colorful neon-style visual effect.
 
 ---
+</div>
 
-## 🖼️ Project Preview
+# 🌌 Live Preview
 
-> Add your project screenshot or GIF here.
+<div align="center">
 
-```text
-📸 Add Screenshot / GIF
+<a href="https://i.postimg.cc/nVmtYwcB/Screenshot-2026-10-04-194852.png">
 
-Example:
+<img
+src="https://i.postimg.cc/nVmtYwcB/Screenshot-2026-10-04-194852.png"
+alt="Web Game"
+width="98%"
+style="border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.4);"/>
 
-![Fractal Tree Preview](preview.gif)
-```
-
-You can upload a GIF or screenshot to your GitHub repository and replace the line above with:
-
-```markdown
-![Fractal Tree Preview](preview.gif)
-```
+</a>
 
 ---
+
+</div>
 
 ## ✨ Features
 
@@ -362,45 +361,72 @@ Possible future upgrades:
 - [ ] 🖱️ Add mouse interaction
 - [ ] ⚡ Add interactive GUI controls
 
+</div>
 ---
-
-## 👨‍💻 Developer
 
 <div align="center">
 
-# MD. FAHAD HOSSAIN
+## 👨‍💻 DEVELOPER
 
-### 💻 Software Developer | Web Developer | Python Developer
-
-**Building creative projects with code 🚀**
+ **MD FAHAD HOSSAIN** 
+ <div align="center">
+   
+<img src="https://i.postimg.cc/DZQ8Tmcc/Whats-App-Image-2026-09-119-at-1-26-32-AM.jpg" width="190" style="border-radius:80%;">
 
 </div>
 
----
 
-## 🌐 Connect With Me
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1D7ExweqoM/)
+## DEVELOPER CONTRACT 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdfahadhossain006/)
+<a href="https://www.facebook.com/share/1D7ExweqoM/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@brightnessworld)
+<a href="https://www.instagram.com/mdfahadhossain006?igsh=ZzhhbzljaXVxcmFw">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdFahadHossain006)
+<a href="https://youtube.com/@brightnessworld?si=0pf1lSEkvWSLXASs">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://github.com/MdFahadHossain006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div> 
+
+---
+</div> 
+
+### ⚠️ Copyright & License
+
+**© 2026 MD. FAHAD HOSSAIN. All Rights Reserved.**
+
+This project is **proprietary Website & Software**. Unauthorized copying, distribution, 
+modification, or use of this code is strictly prohibited.
+
+- ❌ **No forking** without permission
+- ❌ **No copying** of source code
+- ❌ **No commercial use**
+- ✅ **Personal use only** as an end-user
+
+**Legal action will be taken against violators.**
+
+[Contact for Licensing](https://www.instagram.com/mdfahadhossain006)
+****
+
+> ### 💌 "Every line of code carries a little emotion."
+
+<br>
+
+⭐ **If you enjoyed this project, consider starring the repository.**
 
 </div>
 
----
-
-## ⭐ Support
-
-If you like this project, please consider giving it a ⭐ on GitHub.
-
-It helps support future creative coding projects!
-
----
 
 <div align="center">
 
